@@ -9,3 +9,4 @@ To install bower, go to project directory and type in,
 
 ```bower install```
 
+You can check the demo of the app at confusion(http://confusion.paperplane.io)
